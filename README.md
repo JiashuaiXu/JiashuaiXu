@@ -25,4 +25,3 @@
 ## 📌 Pinned Projects
 
 - [meet-kant](https://github.com/JiashuaiXu/meet-kant) — Making Kant's philosophy accessible to everyone.
-- [rCoreOS-learning](https://github.com/JiashuaiXu/rCoreOS-learni
