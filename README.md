@@ -1,3 +1,11 @@
+
+## 📚 Table of Contents
+
+- [About Me](#-about-me)
+- [Projects](#-projects)
+- [Stats](#-stats)
+- [Contact](#-contact)
+- 
 ### Hi there 👋
 - 🌱 I’m currently learning rCoreOS
 
@@ -18,6 +26,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 
 <!--
 **JiashuaiXu/JiashuaiXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
