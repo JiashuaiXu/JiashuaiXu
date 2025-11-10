@@ -1,0 +1,12 @@
+# 忽略所有 HTML 和 CSS 文件（不参与语言统计）
+*.html linguist-generated
+*.css linguist-generated
+
+# 如果有 docs/ 或 public/ 这类静态目录，也可以整体忽略
+docs/** linguist-vendored
+public/** linguist-vendored
+dist/** linguist-vendored
+build/** linguist-vendored
+
+# 如果某些 notebook 输出被误判，也可忽略（谨慎）
+# *.ipynb linguist-detectable  # 不建议关闭 notebook 检测
