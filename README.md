@@ -17,6 +17,12 @@
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)
 
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=black)
+
+
+
 <table>
   <tr>
     <td valign="top" width="50%">
