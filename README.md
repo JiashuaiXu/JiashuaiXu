@@ -1,13 +1,31 @@
 
 ### Hi there 👋
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+<!-- 左列：学习方向 -->
+  
 * 🌱 I’m currently learning [**blog_os**](https://os.phil-opp.com/)
 * 🚧 Planning to explore [**rCore**](https://rcore-os.cn/rCore-Tutorial-Book-v3/) after mastering the basics
-* 📚  Deep dive into quantum-computing
+* 📚 Deep dive into quantum-computing
+
+    </td>
+    <td width="50%" valign="top">
+
+<!-- 右列：兴趣方向 -->
+
 * 🌀 Passionate about:
     * **philosophy**
     * **quantum computing**
     * **physics**
     * **mathematics**
+
+    </td>
+  </tr>
+</table>
+
 
 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
