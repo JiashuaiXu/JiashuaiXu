@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning [**blog_os**](https://os.phil-opp.com/) and [**rustcompiler**](https://opencamp.cn/rustcompiler/camp/2025fall)
-- 🛠️ I’m planning to explore [**rCore**](https://rcore-os.cn/rCore-Tutorial-Book-v3/)
+- 🛠️ I’m planning to explore [**rCore**](https://rcore-os.cn/rCore-Tutorial-Book-v3/) and [Algorithms](https://github.com/thealgorithms) 
 - 📚 I’m diving deep into [**Qiskit**](https://github.com/Qiskit/documentation) and [**LLMs**](https://github.com/rasbt/LLMs-from-scratch)
 - 🌀 Passionate about: [**philosophy**](https://www.gutenberg.org/cache/epub/4280/pg4280-images.html) •[ **physics**](https://eclass.uoa.gr/modules/document/file.php/CHEM248/Griffiths%20-%20Introduction%20to%20Quantum%20Mechanics%203rd%20ed%202018.pdf) • [**mathematics**](https://adam.math.hhu.de/?spm=a2ty_o01.29997173.0.0.2e3ec921bhGzpe)
 
