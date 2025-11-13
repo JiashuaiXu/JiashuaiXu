@@ -1,13 +1,9 @@
-
-### Hi there 👋
 ### Hi there 👋
 
+<!-- 上方两列 -->
 <table width="100%">
-  <!-- 第一行：上方两列 -->
   <tr>
     <td width="50%" valign="top">
-
-<!-- 左列：学习方向 -->
 
 * 🌱 I’m currently learning [**blog_os**](https://os.phil-opp.com/)
 * 🚧 Planning to explore [**rCore**](https://rcore-os.cn/rCore-Tutorial-Book-v3/) after mastering the basics
@@ -17,8 +13,6 @@
 
     <td width="50%" valign="top">
 
-<!-- 右列：兴趣方向 -->
-
 * 🌀 Passionate about:
     * **philosophy**
     * **quantum computing**
@@ -27,8 +21,27 @@
 
     </td>
   </tr>
+</table>
 
-  <!-- 第二行：下方两图 -->
+
+<!-- 技术栈徽章作为中间分隔符 -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Podman-8931D3?logo=podman&logoColor=white" />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+</p>
+
+
+<!-- 下方两张 GitHub 图表 -->
+<table width="100%">
   <tr>
     <td width="50%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiashuaiXu&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&langs_count=10" />
@@ -38,17 +51,3 @@
     </td>
   </tr>
 </table>
-
-
-<!-- 技术栈徽章 -->
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Podman](https://img.shields.io/badge/Podman-8931D3?logo=podman&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
