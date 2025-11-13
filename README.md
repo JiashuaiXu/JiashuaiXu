@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Podman](https://img.shields.io/badge/-Podman-8931D3?logo=podman&logoColor=white)
 ![NixOS](https://img.shields.io/badge/-NixOS-5277C3?logo=nixos&logoColor=white)
