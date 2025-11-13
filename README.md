@@ -2,7 +2,7 @@
 ### Hi there 👋
 * 🌱 I’m currently learning OS development with [**blog_os**](https://os.phil-opp.com/)
 * 🚧 Planning to explore [**rCore**](https://rcore-os.cn/rCore-Tutorial-Book-v3/) after mastering the basics
-* 📚 Compiling notes on quantum computing → [Notes-of-quantum-computing](https://github.com/JiashuaiXu/Notes-of-quantum-computing)
+* 📚  Deep dive into quantum-computing
 * 🌀 Passionate about:
   ◦ **philosophy**
   ◦ **quantum computing**
