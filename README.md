@@ -15,8 +15,6 @@
 ![Podman](https://img.shields.io/badge/Podman-8931D3?logo=podman&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 
 <table>
   <tr>
