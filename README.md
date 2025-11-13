@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning [**blog_os**](https://os.phil-opp.com/) and [rustcompiler](https://opencamp.cn/rustcompiler/camp/2025fall)
+- 🌱 I’m currently learning [**blog_os**](https://os.phil-opp.com/) and [**rustcompiler**](https://opencamp.cn/rustcompiler/camp/2025fall)
 - 🛠️ I’m planning to explore [**rCore**](https://rcore-os.cn/rCore-Tutorial-Book-v3/)
 - 📚 I’m diving deep into [**Qiskit**](https://github.com/Qiskit/documentation) and [**LLMs**](https://github.com/rasbt/LLMs-from-scratch)
 - 🌀 Passionate about: **philosophy** • **physics** • **mathematics**
