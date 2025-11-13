@@ -5,7 +5,7 @@
 - 📚 I’m diving deep into [**Qiskit**](https://github.com/Qiskit/documentation) and [**LLMs**](https://github.com/rasbt/LLMs-from-scratch)
 - 🌀 Passionate about: **philosophy** • **physics** • **mathematics**
 
-![Rust](https://img.shields.io/badge/Rust-6666AB?logo=rust&logoColor=red)
+![Rust](https://img.shields.io/badge/Rust-666666?logo=rust&logoColor=red)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white)
