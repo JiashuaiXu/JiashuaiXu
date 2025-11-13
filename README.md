@@ -1,17 +1,20 @@
 
 ### Hi there 👋
+### Hi there 👋
 
-<table>
+<table width="100%">
+  <!-- 第一行：上方两列 -->
   <tr>
     <td width="50%" valign="top">
 
 <!-- 左列：学习方向 -->
-  
+
 * 🌱 I’m currently learning [**blog_os**](https://os.phil-opp.com/)
 * 🚧 Planning to explore [**rCore**](https://rcore-os.cn/rCore-Tutorial-Book-v3/) after mastering the basics
 * 📚 Deep dive into quantum-computing
 
     </td>
+
     <td width="50%" valign="top">
 
 <!-- 右列：兴趣方向 -->
@@ -24,10 +27,20 @@
 
     </td>
   </tr>
+
+  <!-- 第二行：下方两图 -->
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiashuaiXu&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&langs_count=10" />
+    </td>
+    <td width="50%" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=JiashuaiXu&show_icons=true&theme=transparent&hide_border=true" />
+    </td>
+  </tr>
 </table>
 
 
-
+<!-- 技术栈徽章 -->
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -39,14 +52,3 @@
 ![Podman](https://img.shields.io/badge/Podman-8931D3?logo=podman&logoColor=white)
 ![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiashuaiXu&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&langs_count=10" />
-    </td>
-    <td valign="middle" width="50%"> <!-- 这里从 "top" 改为 "middle" -->
-      <img src="https://github-readme-stats.vercel.app/api?username=JiashuaiXu&show_icons=true&theme=transparent&hide_border=true" />
-    </td>
-  </tr>
-</table>
