@@ -4,11 +4,11 @@
 * 🚧 Planning to explore [**rCore**](https://rcore-os.cn/rCore-Tutorial-Book-v3/) after mastering the basics
 * 📚  Deep dive into quantum-computing
 * 🌀 Passionate about:
-  ◦ **philosophy**
-  ◦ **quantum computing**
-  ◦ **physics**
-  ◦ **mathematics**
-  
+    * **philosophy**
+    * **quantum computing**
+    * **physics**
+    * **mathematics**
+
 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white)
