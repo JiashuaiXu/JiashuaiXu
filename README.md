@@ -12,7 +12,6 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Podman](https://img.shields.io/badge/-Podman-8931D3?logo=podman&logoColor=white)
-
 ![NixOS](https://img.shields.io/badge/-NixOS-5277C3?logo=nixos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
