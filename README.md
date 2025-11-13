@@ -3,13 +3,13 @@
 - 🌱 I’m currently learning [**blog_os**](https://os.phil-opp.com/) and [**rustcompiler**](https://opencamp.cn/rustcompiler/camp/2025fall)
 - 🛠️ I’m planning to explore [**rCore**](https://rcore-os.cn/rCore-Tutorial-Book-v3/) and [Algorithms](https://github.com/thealgorithms) 
 - 🌀 I’m diving deep into [**Qiskit**](https://github.com/Qiskit/documentation) and [**LLMs**](https://github.com/rasbt/LLMs-from-scratch)
-- 🚀 Passionate about: 
+- 🚀 Passionate about:
   [**Philosophy**](https://www.gutenberg.org/cache/epub/4280/pg4280-images.html)
-  ⦾ [**Physics**](https://eclass.uoa.gr/modules/document/file.php/CHEM248/Griffiths%20-%20Introduction%20to%20Quantum%20Mechanics%203rd%20ed%202018.pdf)
-  ⦾ [**Mathematics**](https://adam.math.hhu.de/?spm=a2ty_o01.29997173.0.0.2e3ec921bhGzpe)
-  ⦾ [**Analysis**](https://www.math.ucla.edu/~tao/)
-  ⦾ [**Signals**](https://www.cedric-richard.fr/assets/files/Signals_and_Systems_2nd_Edition_by_Oppen.pdf)
-  ⦾ **Music**
+  │ [**Physics**](https://eclass.uoa.gr/modules/document/file.php/CHEM248/Griffiths%20-%20Introduction%20to%20Quantum%20Mechanics%203rd%20ed%202018.pdf)
+  │ [**Mathematics**](https://adam.math.hhu.de/?spm=a2ty_o01.29997173.0.0.2e3ec921bhGzpe)
+  │ [**Analysis**](https://www.math.ucla.edu/~tao/)
+  │ [**Signals**](https://www.cedric-richard.fr/assets/files/Signals_and_Systems_2nd_Edition_by_Oppen.pdf)
+  │ **Music**
 
 
 ![Rust](https://img.shields.io/badge/Rust-666666?logo=rust&logoColor=red)
