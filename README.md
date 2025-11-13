@@ -7,6 +7,7 @@
 
 ![Rust](https://img.shields.io/badge/Rust-666666?logo=rust&logoColor=red)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white)
+![Lean 4](https://img.shields.io/badge/Lean%204-4A90E2?logo=leanpub&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
