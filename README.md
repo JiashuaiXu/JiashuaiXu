@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-- 🌱 I’m currently building my OS foundation with **[toyOS](https://os.phil-opp.com/)** 
+- 🌱 I’m currently learning OS development with [**blog_os**](https://os.phil-opp.com/)** 
 - 🚧 Planning to explore **[rCore](https://rcore-os.cn/rCore-Tutorial-Book-v3/)** after mastering the basics
 
 <table>
