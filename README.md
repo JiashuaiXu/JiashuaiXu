@@ -12,15 +12,15 @@
 
 
 <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Podman-8931D3?logo=podman&logoColor=white" />
-  <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white" />
+<img src="https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Qiskit-6929C4?logo=qiskit&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Podman-8931D3?logo=podman&logoColor=white" />
+<img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 
 
