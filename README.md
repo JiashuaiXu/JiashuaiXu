@@ -1,6 +1,7 @@
 
 ### Hi there 👋
-- 🌱 I’m currently learning rCoreOS
+- 🌱 I’m currently building my OS foundation with **[toyOS](https://os.phil-opp.com/)** 
+- 🚧 Planning to explore **[rCore](https://rcore-os.cn/rCore-Tutorial-Book-v3/)** after mastering the basics
 
 <table>
   <tr>
