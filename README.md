@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning [**blog_os**](https://os.phil-opp.com/)
-- 🛠️ I’m planning to explore [**rCore**](https://rcore-os.cn/rCore-Tutorial-Book-v3/) after mastering the basics
+- 🛠️ I’m planning to explore [**rCore**](https://rcore-os.cn/rCore-Tutorial-Book-v3/)
 - 📚 I’m diving deep into **quantum computing**
 - 🌀 Passionate about: **philosophy** • **physics** • **mathematics**
 
