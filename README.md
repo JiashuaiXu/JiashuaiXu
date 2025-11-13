@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning OS development with [**blog_os**](https://os.phil-opp.com/)
-- 🛠️ Planning to explore [**rCore**](https://rcore-os.cn/rCore-Tutorial-Book-v3/) after mastering the basics
-- 📚 Deep dive into quantum-computing
-- 🌀 Passionate about: **philosophy** • **quantum computing** • **physics** • **mathematics**
+- 🌱 I’m currently learning [**blog_os**](https://os.phil-opp.com/)
+- 🛠️ I’m planning to explore [**rCore**](https://rcore-os.cn/rCore-Tutorial-Book-v3/) after mastering the basics
+- 📚 I’m diving deep into **quantum computing**
+- 🌀 Passionate about: **philosophy** • **physics** • **mathematics**
 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white)
