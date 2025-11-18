@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🌱 I’m currently learning [**blog_os**](https://os.phil-opp.com/) and [**rustcompiler**](https://opencamp.cn/rustcompiler/camp/2025fall)
 - 🚧 I’m planning to explore [**rCore**](https://rcore-os.cn/rCore-Tutorial-Book-v3/) and [Algorithms](https://github.com/thealgorithms) 
