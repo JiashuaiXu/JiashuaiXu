@@ -29,7 +29,7 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats-jiashuaixu.vercel.app/api/top-langs/?username=JiashuaiXu&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,mathematica,makefile" />
+      <img src="https://github-readme-stats-jiashuaixu.vercel.app/api/top-langs/?username=JiashuaiXu&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,html,css" />
     </td>
     <td valign="middle" width="50%">
       <img src="https://github-readme-stats-jiashuaixu.vercel.app/api?username=JiashuaiXu&v=1&show_icons=true&theme=transparent&hide_border=true" />
